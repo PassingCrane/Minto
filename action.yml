@@ -1,0 +1,6 @@
+name: 'Minto'
+description: 'Inspect the source code of your Android application'
+
+runs:
+  using: 'node12'
+  main: 'index.js'
